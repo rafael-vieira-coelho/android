@@ -1,7 +1,2 @@
-# Android e Kotlin
-
-Aula 2 - Introdução e Android Studio
-
-https://youtu.be/pXv3ylMa-uE
-
-
+# android
+Código-fonte com exemplos do curso sobre Android do canal https://www.youtube.com/channel/UCjzw4JBvbjbZkRiwJ78c5nA
