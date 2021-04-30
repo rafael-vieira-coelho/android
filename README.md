@@ -14,4 +14,6 @@ https://youtu.be/VdxdXRda-_M
 
 Aula 4 - Layouts
 
+https://youtu.be/k8r9yEMJNv8
+
 Aula 5 - Android
